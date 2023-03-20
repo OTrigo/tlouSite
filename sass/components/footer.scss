@@ -1,0 +1,13 @@
+footer{
+    height: 2rem;
+    width: 100%;
+    background:linear-gradient(180deg, rgb(36, 39, 47) 0%, rgb(24, 38, 40) 5%, rgb(0, 56, 68) 100%);
+    padding: 5%;
+    .footerNav{
+        
+        background-color: none;
+        color: white;
+        display: flex;
+        justify-content: space-evenly;
+    }
+}
